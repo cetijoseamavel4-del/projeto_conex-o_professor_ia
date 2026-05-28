@@ -37,13 +37,14 @@ Desenvolver e implementar uma plataforma digital colaborativa para apoiar profes
 
 ##  Estrutura da Plataforma
 
-<div align="left>
-  <img src="/imagens/estrutura.png" width = "300" alt="Estrutura do site">
+<div align="left">
+  <img src="/imagens/estrutura.png" width="400" alt="QR Code de Acesso">
 </div>
-## Acesso
-### LINK: 
-https://sites.google.com/view/conexoprofessoria/contatos
 
+## Acesso da Plataforma <br> 
+### LINK: <br> 
+https://sites.google.com/view/conexoprofessoria/contatos <br> <br>
+### QR CODE <br> 
 <div align="left">
   <img src="/qrcode/QRCode.png" width="150" alt="QR Code de Acesso">
 </div>
