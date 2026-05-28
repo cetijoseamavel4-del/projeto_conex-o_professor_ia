@@ -1,5 +1,4 @@
-﻿# conexao professor ia
- # Conexão Professor IA
+# Conexão Professor IA
 
 Plataforma digital colaborativa voltada para a organização pedagógica, compartilhamento de práticas docentes e fortalecimento do ensino de Inteligência Artificial na educação pública.
 
@@ -63,3 +62,11 @@ Início
 ## Acesso
 ### LINK: 
 https://sites.google.com/view/conexoprofessoria/contatos
+Acesse pelo Celular
+Aponte a câmera do seu celular para o QR Code abaixo para acessar este repositório instantaneamente:
+
+<div align="center">
+  <img src="/qrcode/QRCode.png" width="150" alt="QR Code de Acesso">
+  <br>
+  <sub><i>Escaneie para acessar o painel completo</i></sub>
+</div>
