@@ -37,36 +37,14 @@ Desenvolver e implementar uma plataforma digital colaborativa para apoiar profes
 
 ##  Estrutura da Plataforma
 
+<div align="left">
+  <img src="/imagens/estrutura.png" width="400" alt="QR Code de Acesso">
+</div>
 
-Início
-│
-├── 1º Ano
-│   ├── 1º Trimestre
-│   ├── 2º Trimestre
-│   └── 3º Trimestre
-│
-├── 2º Ano
-│   ├── 1º Trimestre
-│   ├── 2º Trimestre
-│   └── 3º Trimestre
-│
-├── 3º Ano
-│   ├── 1º Trimestre
-│   ├── 2º Trimestre
-│   └── 3º Trimestre
-│
-├── Galeria
-├── Livros
-├── Planejamento
-└── Contato
-## Acesso
-### LINK: 
-https://sites.google.com/view/conexoprofessoria/contatos
-Acesse pelo Celular
-Aponte a câmera do seu celular para o QR Code abaixo para acessar este repositório instantaneamente:
-
-<div align="center">
+## Acesso da Plataforma <br> 
+### LINK: <br> 
+https://sites.google.com/view/conexoprofessoria/contatos <br> <br>
+### QR CODE <br> 
+<div align="left">
   <img src="/qrcode/QRCode.png" width="150" alt="QR Code de Acesso">
-  <br>
-  <sub><i>Escaneie para acessar o painel completo</i></sub>
 </div>
